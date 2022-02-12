@@ -7,11 +7,11 @@
 - 👯 **Passionate, hard-working, quick learner**
 - 👨‍💻 Check my website [jhaakshita27.github.io](https://jhaakshita27.github.io/)
 
-[![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhaakshita27&bg_color=172030&title_color=00FFFF&show_icons=true&hide_border=true&text_color=fff&icon_color=E0FFFF)](https://github.com/jhaakshita27)
+[![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhaakshita27&bg_color=F2C5CB&title_color=AF5737&show_icons=true&hide_border=true&text_color=191919&icon_color=191919)](https://github.com/jhaakshita27)
 
 ---
 
-![Akshita's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jhaakshita27&theme=rogue&hide_border=true&area=true)
+![Akshita's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jhaakshita27&bg_color=F2C5CB&color=AF5737&line=AF5737&point=AF5737&area_color=AF5737&hide_border=true&area=true)
 
 ---
 
