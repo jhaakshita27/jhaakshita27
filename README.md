@@ -18,5 +18,5 @@
 <br>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-%2B-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jhaakshita/)
-[![Twitter](https://img.shields.io/twitter/follow/akshita_jha?style=social)](https://twitter.com/akshita_jha)
-[![Instagram](https://img.shields.io/badge/Instagram-%2B-blue?style=social&logo=instagram)](https://instagram.com/akshitajha98)
+<!-- [![Twitter](https://img.shields.io/twitter/follow/akshita_jha?style=social)](https://twitter.com/akshita_jha)
+[![Instagram](https://img.shields.io/badge/Instagram-%2B-blue?style=social&logo=instagram)](https://instagram.com/akshitajha98) -->
