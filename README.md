@@ -11,7 +11,7 @@
 
 ---
 
-![Akshita's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jhaakshita27&bg_color=F2C5CB&color=AF5737&line=AF5737&point=AF5737&area_color=AF5737&hide_border=true&area=true)
+![Akshita's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jhaakshita27&bg_color=F2C5CB&color=191919&line=AF5737&point=AF5737&area_color=AF5737&hide_border=true&area=true)
 
 ---
 
