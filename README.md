@@ -1,12 +1,22 @@
-### Hi there 👋
+![GitHub Profile Intro (1)](https://user-images.githubusercontent.com/77383186/153713519-25d4b7e2-82ea-4f71-b55e-c3b74740153f.gif)
+![](https://visitor-badge.glitch.me/badge?page_id=jhaakshita27)
 
-Here are some ideas to get you started:
+## About Me 😊
+- 🌱 I am a Student Developer
+- 🚀 B.Tech Sophomore at **Indira Gandhi Delhi Technical University for Women**
+- 👯 **Passionate, hard-working, quick learner**
+- 👨‍💻 Check my website [jhaakshita27.github.io](https://jhaakshita27.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhaakshita27&bg_color=172030&title_color=00FFFF&show_icons=true&hide_border=true&text_color=fff&icon_color=E0FFFF)](https://github.com/jhaakshita27)
+
+---
+
+![Akshita's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jhaakshita27&theme=rogue&hide_border=true&area=true)
+
+---
+
+<br>
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-%2B-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jhaakshita/)
+[![Twitter](https://img.shields.io/twitter/follow/akshita_jha?style=social)](https://twitter.com/akshita_jha)
+[![Instagram](https://img.shields.io/badge/Instagram-%2B-blue?style=social&logo=instagram)](https://instagram.com/akshitajha98)
