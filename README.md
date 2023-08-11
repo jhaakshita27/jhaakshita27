@@ -3,7 +3,7 @@
 
 ## About Me 😊
 - 🌱 I am a Student Developer and a tech enthusiast
-- 👷 B.Tech (3rd year) at **Indira Gandhi Delhi Technical University for Women**
+- 👷 B.Tech (4th year) at **Indira Gandhi Delhi Technical University for Women**
 - 🚀 **Passionate, hard-working, quick learner**
 - 😀 Always open to learn and grow
 <!-- - 👨‍💻 Check my website [jhaakshita27.github.io](https://jhaakshita27.github.io/) -->
