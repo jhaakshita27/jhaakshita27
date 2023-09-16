@@ -8,7 +8,7 @@
 - 😀 Always open to learn and grow
 <!-- - 👨‍💻 Check my website [jhaakshita27.github.io](https://jhaakshita27.github.io/) -->
 
-[![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhaakshita27&bg_color=F2C5CB&title_color=AF5737&show_icons=true&hide_border=true&text_color=191919&icon_color=191919)](https://github.com/jhaakshita27)
+<!-- [![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhaakshita27&bg_color=F2C5CB&title_color=AF5737&show_icons=true&hide_border=true&text_color=191919&icon_color=191919)](https://github.com/jhaakshita27) -->
 
 ---
 
